@@ -1,0 +1,952 @@
+{
+  "gmail": [
+    {
+      "external_id": "gmail-001",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-03T20:14:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Sushi Yama has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Hi, your order #SW10234 from Sushi Yama (Japanese, Indiranagar) has been delivered. Items: Salmon Sushi Platter, Miso Soup, Green Tea. Total: Rs 980. Rate your experience."
+      }
+    },
+    {
+      "external_id": "gmail-002",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-10T21:02:00Z",
+      "payload": {
+        "subject": "Order delivered - Ramen Bar",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Ramen Bar (Japanese) is delivered. Items: Tonkotsu Ramen, Gyoza. Total: Rs 650. Order #ZM88213."
+      }
+    },
+    {
+      "external_id": "gmail-003",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-17T19:45:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Sushi Yama has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW10410 from Sushi Yama (Japanese, Indiranagar) delivered. Items: Dragon Roll, Miso Soup. Total: Rs 870."
+      }
+    },
+    {
+      "external_id": "gmail-004",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-24T20:30:00Z",
+      "payload": {
+        "subject": "Order delivered - Naga Thai Kitchen",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Naga Thai Kitchen (Thai) is delivered. Items: Pad Thai, Tom Yum Soup. Total: Rs 720. Order #ZM90012."
+      }
+    },
+    {
+      "external_id": "gmail-005",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-02T21:10:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Ikigai Ramen House has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW11023 from Ikigai Ramen House (Japanese) delivered. Items: Shoyu Ramen, Edamame. Total: Rs 690."
+      }
+    },
+    {
+      "external_id": "gmail-006",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-08T20:05:00Z",
+      "payload": {
+        "subject": "Order delivered - Punjab Grill",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Punjab Grill (North Indian) is delivered. Items: Butter Chicken, Garlic Naan. Total: Rs 540. Order #ZM91255."
+      }
+    },
+    {
+      "external_id": "gmail-007",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-15T19:50:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Sushi Yama has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW11590 from Sushi Yama (Japanese, Indiranagar) delivered. Items: Salmon Sushi Platter, Green Tea. Total: Rs 910."
+      }
+    },
+    {
+      "external_id": "gmail-008",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-22T21:20:00Z",
+      "payload": {
+        "subject": "Order delivered - Ramen Bar",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Ramen Bar (Japanese) is delivered. Items: Spicy Miso Ramen, Gyoza. Total: Rs 680. Order #ZM92310."
+      }
+    },
+    {
+      "external_id": "gmail-009",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-01T20:40:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Ikigai Ramen House has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW12230 from Ikigai Ramen House (Japanese) delivered. Items: Shoyu Ramen, Karaage. Total: Rs 760."
+      }
+    },
+    {
+      "external_id": "gmail-010",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-09T19:30:00Z",
+      "payload": {
+        "subject": "Order delivered - Naga Thai Kitchen",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Naga Thai Kitchen (Thai) is delivered. Items: Green Curry, Thai Iced Tea. Total: Rs 640. Order #ZM93710."
+      }
+    },
+    {
+      "external_id": "gmail-011",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-18T20:55:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Sushi Yama has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW12890 from Sushi Yama (Japanese, Indiranagar) delivered. Items: Dragon Roll, Miso Soup, Sake. Total: Rs 1120."
+      }
+    },
+    {
+      "external_id": "gmail-012",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-26T21:05:00Z",
+      "payload": {
+        "subject": "Order delivered - Ramen Bar",
+        "sender": "noreply@zomato.com",
+        "body": "Your order from Ramen Bar (Japanese) is delivered. Items: Tonkotsu Ramen. Total: Rs 420. Order #ZM94522."
+      }
+    },
+    {
+      "external_id": "gmail-013",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-10-04T20:15:00Z",
+      "payload": {
+        "subject": "Your Swiggy order from Ikigai Ramen House has been delivered",
+        "sender": "noreply@swiggy.in",
+        "body": "Order #SW13401 from Ikigai Ramen House (Japanese) delivered. Items: Shoyu Ramen, Gyoza. Total: Rs 700."
+      }
+    },
+    {
+      "external_id": "gmail-014",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-12T11:20:00Z",
+      "payload": {
+        "subject": "Your Myntra order has been shipped",
+        "sender": "noreply@myntra.com",
+        "body": "Your order #MY55102 has shipped. Items: Nike Air Max Sneakers (Black), Oversized Streetwear Hoodie. Total: Rs 6499."
+      }
+    },
+    {
+      "external_id": "gmail-015",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-05T14:00:00Z",
+      "payload": {
+        "subject": "Your Ajio order has been delivered",
+        "sender": "noreply@ajio.com",
+        "body": "Order #AJ22190 delivered. Items: Minimalist Graphic Tee, Cargo Pants, Nike Dunk Low Sneakers. Total: Rs 4120."
+      }
+    },
+    {
+      "external_id": "gmail-016",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-10T13:40:00Z",
+      "payload": {
+        "subject": "Your Myntra order has been delivered",
+        "sender": "noreply@myntra.com",
+        "body": "Order #MY58810 delivered. Items: Adidas Ultraboost Sneakers, Streetwear Bomber Jacket. Total: Rs 8990."
+      }
+    },
+    {
+      "external_id": "gmail-017",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-07-20T23:40:00Z",
+      "payload": {
+        "subject": "Your Uber trip receipt",
+        "sender": "noreply@uber.com",
+        "body": "Thanks for riding with Uber. Trip from Indiranagar to Koramangala, 11:35 PM. Fare: Rs 240."
+      }
+    },
+    {
+      "external_id": "gmail-018",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-08-14T23:55:00Z",
+      "payload": {
+        "subject": "Your Uber trip receipt",
+        "sender": "noreply@uber.com",
+        "body": "Thanks for riding with Uber. Trip from Koramangala to Indiranagar, 11:50 PM. Fare: Rs 260."
+      }
+    },
+    {
+      "external_id": "gmail-019",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-05T08:10:00Z",
+      "payload": {
+        "subject": "Your IndiGo e-ticket - BLR to GOI",
+        "sender": "noreply@goindigo.in",
+        "body": "Booking confirmed. Flight 6E-234 Bengaluru (BLR) to Goa (GOI), 5 Oct 2025, 09:15 AM. PNR: XJ4K2P. Passenger: 1."
+      }
+    },
+    {
+      "external_id": "gmail-020",
+      "item_type": "email_receipt",
+      "occurred_at": "2025-09-05T08:15:00Z",
+      "payload": {
+        "subject": "Your booking confirmation - Azul Beach Resort, Goa",
+        "sender": "noreply@booking.com",
+        "body": "Your stay at Azul Beach Resort, Goa is confirmed. Check-in: 5 Oct 2025. Check-out: 8 Oct 2025. Room: Sea View Suite."
+      }
+    }
+  ],
+  "gcal": [
+    {
+      "external_id": "gcal-001",
+      "item_type": "event",
+      "occurred_at": "2025-09-01T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Leg Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-01T07:00:00Z",
+        "end": "2025-09-01T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-002",
+      "item_type": "event",
+      "occurred_at": "2025-09-03T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Push Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-03T07:00:00Z",
+        "end": "2025-09-03T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-003",
+      "item_type": "event",
+      "occurred_at": "2025-09-05T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Pull Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-05T07:00:00Z",
+        "end": "2025-09-05T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-004",
+      "item_type": "event",
+      "occurred_at": "2025-09-08T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Leg Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-08T07:00:00Z",
+        "end": "2025-09-08T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-005",
+      "item_type": "event",
+      "occurred_at": "2025-09-10T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Push Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-10T07:00:00Z",
+        "end": "2025-09-10T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-006",
+      "item_type": "event",
+      "occurred_at": "2025-09-12T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Pull Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-12T07:00:00Z",
+        "end": "2025-09-12T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-007",
+      "item_type": "event",
+      "occurred_at": "2025-09-15T09:30:00Z",
+      "payload": {
+        "title": "Sprint Planning",
+        "location": "Office - Bay 3",
+        "start": "2025-09-15T09:30:00Z",
+        "end": "2025-09-15T10:30:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-008",
+      "item_type": "event",
+      "occurred_at": "2025-09-16T09:30:00Z",
+      "payload": {
+        "title": "Daily Standup",
+        "location": "Zoom",
+        "start": "2025-09-16T09:30:00Z",
+        "end": "2025-09-16T09:45:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-009",
+      "item_type": "event",
+      "occurred_at": "2025-09-19T20:00:00Z",
+      "payload": {
+        "title": "Dinner - Ikigai Ramen House",
+        "location": "Ikigai Ramen House, Indiranagar",
+        "start": "2025-09-19T20:00:00Z",
+        "end": "2025-09-19T21:30:00Z",
+        "recurring": false
+      }
+    },
+    {
+      "external_id": "gcal-010",
+      "item_type": "event",
+      "occurred_at": "2025-09-22T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Leg Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-09-22T07:00:00Z",
+        "end": "2025-09-22T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-011",
+      "item_type": "event",
+      "occurred_at": "2025-09-27T06:30:00Z",
+      "payload": {
+        "title": "Weekend Long Run - Cubbon Park",
+        "location": "Cubbon Park",
+        "start": "2025-09-27T06:30:00Z",
+        "end": "2025-09-27T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-012",
+      "item_type": "event",
+      "occurred_at": "2025-10-05T09:15:00Z",
+      "payload": {
+        "title": "Trip: Goa Getaway",
+        "location": "Goa",
+        "start": "2025-10-05T09:15:00Z",
+        "end": "2025-10-08T18:00:00Z",
+        "recurring": false
+      }
+    },
+    {
+      "external_id": "gcal-013",
+      "item_type": "event",
+      "occurred_at": "2025-10-12T18:00:00Z",
+      "payload": {
+        "title": "Free evening - no plans",
+        "location": "",
+        "start": "2025-10-12T18:00:00Z",
+        "end": "2025-10-12T22:00:00Z",
+        "recurring": false
+      }
+    },
+    {
+      "external_id": "gcal-014",
+      "item_type": "event",
+      "occurred_at": "2025-10-13T07:00:00Z",
+      "payload": {
+        "title": "Morning Gym - Push Day",
+        "location": "Cult.fit Indiranagar",
+        "start": "2025-10-13T07:00:00Z",
+        "end": "2025-10-13T08:00:00Z",
+        "recurring": true
+      }
+    },
+    {
+      "external_id": "gcal-015",
+      "item_type": "event",
+      "occurred_at": "2025-10-18T06:30:00Z",
+      "payload": {
+        "title": "Weekend Long Run - Cubbon Park",
+        "location": "Cubbon Park",
+        "start": "2025-10-18T06:30:00Z",
+        "end": "2025-10-18T08:00:00Z",
+        "recurring": true
+      }
+    }
+  ],
+  "spotify": [
+    {
+      "external_id": "spotify-001",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_tracks_medium_term",
+        "track": "Sicko Mode",
+        "artist": "Travis Scott",
+        "genres": [
+          "hip hop",
+          "trap"
+        ],
+        "play_count_rank": 1
+      }
+    },
+    {
+      "external_id": "spotify-002",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_tracks_medium_term",
+        "track": "HUMBLE.",
+        "artist": "Kendrick Lamar",
+        "genres": [
+          "hip hop"
+        ],
+        "play_count_rank": 2
+      }
+    },
+    {
+      "external_id": "spotify-003",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_tracks_medium_term",
+        "track": "Flashing Lights",
+        "artist": "Kanye West",
+        "genres": [
+          "hip hop"
+        ],
+        "play_count_rank": 3
+      }
+    },
+    {
+      "external_id": "spotify-004",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_tracks_medium_term",
+        "track": "goosebumps",
+        "artist": "Travis Scott",
+        "genres": [
+          "hip hop",
+          "trap"
+        ],
+        "play_count_rank": 4
+      }
+    },
+    {
+      "external_id": "spotify-005",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_tracks_medium_term",
+        "track": "Nights",
+        "artist": "Frank Ocean",
+        "genres": [
+          "r&b",
+          "alternative r&b"
+        ],
+        "play_count_rank": 5
+      }
+    },
+    {
+      "external_id": "spotify-006",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_artists_medium_term",
+        "artist": "Travis Scott",
+        "genres": [
+          "hip hop",
+          "trap"
+        ],
+        "play_count_rank": 1
+      }
+    },
+    {
+      "external_id": "spotify-007",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_artists_medium_term",
+        "artist": "Kendrick Lamar",
+        "genres": [
+          "hip hop",
+          "conscious rap"
+        ],
+        "play_count_rank": 2
+      }
+    },
+    {
+      "external_id": "spotify-008",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_artists_medium_term",
+        "artist": "Frank Ocean",
+        "genres": [
+          "r&b"
+        ],
+        "play_count_rank": 3
+      }
+    },
+    {
+      "external_id": "spotify-009",
+      "item_type": "track",
+      "occurred_at": "2025-10-01T08:00:00Z",
+      "payload": {
+        "source": "top_artists_medium_term",
+        "artist": "Tame Impala",
+        "genres": [
+          "psychedelic rock",
+          "alternative"
+        ],
+        "play_count_rank": 4
+      }
+    },
+    {
+      "external_id": "spotify-010",
+      "item_type": "track",
+      "occurred_at": "2025-10-19T22:10:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "Praise God",
+        "artist": "Kanye West",
+        "genres": [
+          "hip hop",
+          "gospel rap"
+        ],
+        "played_at": "2025-10-19T22:10:00Z"
+      }
+    },
+    {
+      "external_id": "spotify-011",
+      "item_type": "track",
+      "occurred_at": "2025-10-19T21:55:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "FEIN",
+        "artist": "Travis Scott",
+        "genres": [
+          "hip hop",
+          "trap"
+        ],
+        "played_at": "2025-10-19T21:55:00Z"
+      }
+    },
+    {
+      "external_id": "spotify-012",
+      "item_type": "track",
+      "occurred_at": "2025-10-20T07:05:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "Alright",
+        "artist": "Kendrick Lamar",
+        "genres": [
+          "hip hop",
+          "conscious rap"
+        ],
+        "played_at": "2025-10-20T07:05:00Z"
+      }
+    },
+    {
+      "external_id": "spotify-013",
+      "item_type": "track",
+      "occurred_at": "2025-10-20T07:10:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "Pink + White",
+        "artist": "Frank Ocean",
+        "genres": [
+          "r&b"
+        ],
+        "played_at": "2025-10-20T07:10:00Z"
+      }
+    },
+    {
+      "external_id": "spotify-014",
+      "item_type": "track",
+      "occurred_at": "2025-10-20T18:40:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "genres": [
+          "psychedelic rock"
+        ],
+        "played_at": "2025-10-20T18:40:00Z"
+      }
+    },
+    {
+      "external_id": "spotify-015",
+      "item_type": "track",
+      "occurred_at": "2025-10-21T07:00:00Z",
+      "payload": {
+        "source": "recently_played",
+        "track": "POWER",
+        "artist": "Kanye West",
+        "genres": [
+          "hip hop"
+        ],
+        "played_at": "2025-10-21T07:00:00Z"
+      }
+    }
+  ],
+  "strava": [
+    {
+      "external_id": "strava-001",
+      "item_type": "activity",
+      "occurred_at": "2025-09-01T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Leg Day",
+        "start_date_local": "2025-09-01T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3200,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-002",
+      "item_type": "activity",
+      "occurred_at": "2025-09-03T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Push Day",
+        "start_date_local": "2025-09-03T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3000,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-003",
+      "item_type": "activity",
+      "occurred_at": "2025-09-07T06:30:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Cubbon Park Morning Run",
+        "start_date_local": "2025-09-07T06:30:00",
+        "distance_m": 8200,
+        "moving_time_s": 2700,
+        "location": "Cubbon Park"
+      }
+    },
+    {
+      "external_id": "strava-004",
+      "item_type": "activity",
+      "occurred_at": "2025-09-08T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Leg Day",
+        "start_date_local": "2025-09-08T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3300,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-005",
+      "item_type": "activity",
+      "occurred_at": "2025-09-14T06:30:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Cubbon Park Morning Run",
+        "start_date_local": "2025-09-14T06:30:00",
+        "distance_m": 9000,
+        "moving_time_s": 2900,
+        "location": "Cubbon Park"
+      }
+    },
+    {
+      "external_id": "strava-006",
+      "item_type": "activity",
+      "occurred_at": "2025-09-15T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Pull Day",
+        "start_date_local": "2025-09-15T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3100,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-007",
+      "item_type": "activity",
+      "occurred_at": "2025-09-21T06:30:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Cubbon Park Morning Run",
+        "start_date_local": "2025-09-21T06:30:00",
+        "distance_m": 10100,
+        "moving_time_s": 3200,
+        "location": "Cubbon Park"
+      }
+    },
+    {
+      "external_id": "strava-008",
+      "item_type": "activity",
+      "occurred_at": "2025-09-22T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Leg Day",
+        "start_date_local": "2025-09-22T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3250,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-009",
+      "item_type": "activity",
+      "occurred_at": "2025-09-27T06:30:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Cubbon Park Long Run",
+        "start_date_local": "2025-09-27T06:30:00",
+        "distance_m": 15000,
+        "moving_time_s": 5100,
+        "location": "Cubbon Park"
+      }
+    },
+    {
+      "external_id": "strava-010",
+      "item_type": "activity",
+      "occurred_at": "2025-10-05T07:00:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Beach Run - Goa",
+        "start_date_local": "2025-10-05T07:00:00",
+        "distance_m": 6000,
+        "moving_time_s": 2100,
+        "location": "Baga Beach, Goa"
+      }
+    },
+    {
+      "external_id": "strava-011",
+      "item_type": "activity",
+      "occurred_at": "2025-10-13T06:15:00Z",
+      "payload": {
+        "type": "WeightTraining",
+        "name": "Push Day",
+        "start_date_local": "2025-10-13T06:15:00",
+        "distance_m": 0,
+        "moving_time_s": 3000,
+        "location": "Cult.fit Indiranagar"
+      }
+    },
+    {
+      "external_id": "strava-012",
+      "item_type": "activity",
+      "occurred_at": "2025-10-18T06:30:00Z",
+      "payload": {
+        "type": "Run",
+        "name": "Cubbon Park Long Run",
+        "start_date_local": "2025-10-18T06:30:00",
+        "distance_m": 14500,
+        "moving_time_s": 4950,
+        "location": "Cubbon Park"
+      }
+    }
+  ],
+  "trakt": [
+    {
+      "external_id": "trakt-001",
+      "item_type": "watch",
+      "occurred_at": "2025-08-02T21:00:00Z",
+      "payload": {
+        "title": "Breaking Bad",
+        "type": "show",
+        "genres": [
+          "crime",
+          "drama",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 10
+      }
+    },
+    {
+      "external_id": "trakt-002",
+      "item_type": "watch",
+      "occurred_at": "2025-08-09T21:30:00Z",
+      "payload": {
+        "title": "Better Call Saul",
+        "type": "show",
+        "genres": [
+          "crime",
+          "drama"
+        ],
+        "action": "watched",
+        "rating": 9
+      }
+    },
+    {
+      "external_id": "trakt-003",
+      "item_type": "watch",
+      "occurred_at": "2025-08-16T22:00:00Z",
+      "payload": {
+        "title": "Dark",
+        "type": "show",
+        "genres": [
+          "sci-fi",
+          "thriller",
+          "mystery"
+        ],
+        "action": "watched",
+        "rating": 9
+      }
+    },
+    {
+      "external_id": "trakt-004",
+      "item_type": "watch",
+      "occurred_at": "2025-08-23T20:45:00Z",
+      "payload": {
+        "title": "Severance",
+        "type": "show",
+        "genres": [
+          "sci-fi",
+          "thriller",
+          "mystery"
+        ],
+        "action": "watched",
+        "rating": 10
+      }
+    },
+    {
+      "external_id": "trakt-005",
+      "item_type": "watch",
+      "occurred_at": "2025-08-30T21:15:00Z",
+      "payload": {
+        "title": "Oppenheimer",
+        "type": "movie",
+        "genres": [
+          "drama",
+          "history",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 9
+      }
+    },
+    {
+      "external_id": "trakt-006",
+      "item_type": "watch",
+      "occurred_at": "2025-09-06T22:10:00Z",
+      "payload": {
+        "title": "The Prestige",
+        "type": "movie",
+        "genres": [
+          "mystery",
+          "sci-fi",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 10
+      }
+    },
+    {
+      "external_id": "trakt-007",
+      "item_type": "watch",
+      "occurred_at": "2025-09-13T21:40:00Z",
+      "payload": {
+        "title": "True Detective",
+        "type": "show",
+        "genres": [
+          "crime",
+          "drama",
+          "mystery"
+        ],
+        "action": "watched",
+        "rating": 8
+      }
+    },
+    {
+      "external_id": "trakt-008",
+      "item_type": "watch",
+      "occurred_at": "2025-09-20T20:50:00Z",
+      "payload": {
+        "title": "Dune: Part Two",
+        "type": "movie",
+        "genres": [
+          "sci-fi",
+          "adventure"
+        ],
+        "action": "watched",
+        "rating": 9
+      }
+    },
+    {
+      "external_id": "trakt-009",
+      "item_type": "watch",
+      "occurred_at": "2025-09-27T21:20:00Z",
+      "payload": {
+        "title": "Mindhunter",
+        "type": "show",
+        "genres": [
+          "crime",
+          "drama",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 8
+      }
+    },
+    {
+      "external_id": "trakt-010",
+      "item_type": "watch",
+      "occurred_at": "2025-10-04T22:00:00Z",
+      "payload": {
+        "title": "Shutter Island",
+        "type": "movie",
+        "genres": [
+          "mystery",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 8
+      }
+    },
+    {
+      "external_id": "trakt-011",
+      "item_type": "watch",
+      "occurred_at": "2025-10-11T21:30:00Z",
+      "payload": {
+        "title": "The Bear",
+        "type": "show",
+        "genres": [
+          "comedy",
+          "drama"
+        ],
+        "action": "watched",
+        "rating": 7
+      }
+    },
+    {
+      "external_id": "trakt-012",
+      "item_type": "watch",
+      "occurred_at": "2025-10-18T21:00:00Z",
+      "payload": {
+        "title": "Fargo",
+        "type": "show",
+        "genres": [
+          "crime",
+          "drama",
+          "thriller"
+        ],
+        "action": "watched",
+        "rating": 9
+      }
+    }
+  ]
+}
+
